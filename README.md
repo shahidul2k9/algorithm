@@ -4,7 +4,7 @@ Implementation of Algorithms
 ## Alogirthms
 - [Articulation Point](https://github.com/shahidul2k9/algorithm/blob/master/Articulation%20Point.cpp)
 - [Bellman-Ford Shortest Path](https://github.com/shahidul2k9/algorithm/blob/master/bellmanford.cpp)
-- [Binary Index Tree(BIT)[https://github.com/shahidul2k9/algorithm/tree/master/binary%20index%20tree]
+- [Binary Index Tree(BIT)](https://github.com/shahidul2k9/algorithm/tree/master/binary%20index%20tree)
 - [Binary Segment Tree(BST)](https://github.com/shahidul2k9/algorithm/blob/master/binary%20segment%20tree.cc)
 - [Breadth First Search(BFS)](https://github.com/shahidul2k9/algorithm/blob/master/BFS.cpp)
 - [Binary Search](https://github.com/shahidul2k9/algorithm/blob/master/BinarySearch.cpp)
